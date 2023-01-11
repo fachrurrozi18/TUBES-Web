@@ -1,0 +1,113 @@
+* {
+  font-family: "Poppins";
+  margin: 0;
+  padding-bottom: 0;
+}
+.row1,
+.row2,
+.bph-row {
+  display: flex;
+  padding: 20px 220px;
+}
+.kabinet {
+  padding-top: 2rem;
+  text-align: center;
+  color: white;
+  background-color: #004189;
+}
+.judul-kabinet {
+  border-bottom: 2px solid #f87f2c;
+  display: inline;
+  font-size: 32px;
+  font-weight: 1000;
+}
+.ketua {
+  padding-right: 60px;
+}
+.wakil {
+  padding-left: 60px;
+}
+.bph {
+  padding-right: 60px;
+}
+.bph h2,
+.judul-visi,
+.judul-misi {
+  color: #f87f2c;
+  margin-bottom: 10px;
+}
+.visi,
+.misi {
+  border: 3px solid white;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.visi p,
+.misi p,
+.bph-row p {
+  text-align: justify;
+}
+.bph-row p {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.kabinet svg {
+  position: relative;
+  bottom: -10px;
+}
+
+/* bagian putih */
+.internal,
+.eksternal,
+.it,
+.pubdok {
+  text-align: center;
+  padding: 20px 220px;
+  color: #004189;
+}
+.internal h1,
+.eksternal h1,
+.it h1,
+.pubdok h1 {
+  border-bottom: 2px solid #f87f2c;
+  display: inline;
+}
+.anggota-internal,
+.anggota-it {
+  padding-left: 20px;
+}
+.anggota-eksternal,
+.anggota-pubdok {
+  padding-right: 40px;
+}
+.anggota-internal h4,
+.anggota-eksternal h4,
+.anggota-it h4,
+.anggota-pubdok h4 {
+  color: #f87f2c;
+}
+.internal .container,
+.eksternal .container,
+.it .container,
+.pubdok .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.internal .container .kadept-internal,
+.it .container .kadept-it {
+  padding-right: 40px;
+}
+.eksternal .container .kadept-eksternal,
+.pubdok .container .kadept-pubdok {
+  padding-left: 20px;
+}
+.internal .container .desc,
+.eksternal .container .desc,
+.it .container .desc,
+.pubdok .container .desc {
+  text-align: justify;
+}
