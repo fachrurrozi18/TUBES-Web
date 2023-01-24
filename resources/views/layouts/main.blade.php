@@ -16,6 +16,8 @@
     <link rel="shortcut icon" href="/img/logofooter.png">
     <!-- Footer CSS -->
     <link rel="stylesheet" href="/css/footer.css">
+    <!-- Slider Css -->
+    <!-- <link rel="stylesheet" href="/css/slider.css"> -->
 
     <title>HMIK | {{ $title }}</title>
 </head>
@@ -23,6 +25,7 @@
 <body>
 
     @include('partials.navbar')
+    <!-- @include('slider') -->
 
     @yield('container')
 

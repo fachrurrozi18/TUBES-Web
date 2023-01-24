@@ -40,11 +40,11 @@
             <i class="fa fa-calendar" style="font-size: 18px"> {{$post->created_at->diffForHumans()}}</i>
             <br />
             <i class="fa fa-map-marker" style="font-size: 20px">
-                <p>Universitas Pertamina</p>
+                <p> Universitas Pertamina </p>
             </i>
             <br /><br />
             <div>
-                <a href="" class="button">Details</a>
+                    <a href="/posts/{{ $post->slug }}" class="button">Read more</a>
             </div>
         </div>
     </div>
@@ -69,10 +69,11 @@
                 alt="{{ $post->category->name }}" />
         </div>
         <div class="container">
+            <h5> {{ $post->title }} </h5>
             <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores,
-                dolorem.
+                {{ $post->excerpt }}
             </p>
+            <a href="/posts/{{ $post->slug }}" class="button">Read more</a>
         </div>
     </div>
     @endforeach
@@ -97,10 +98,11 @@
                 alt="{{ $post->category->name }}" />
         </div>
         <div class="container">
+            <h5> {{ $post->title }} </h5>
             <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores,
-                dolorem.
+                {{ $post->excerpt }}
             </p>
+            <a href="/posts/{{ $post->slug }}" class="button">Read more</a>
         </div>
     </div>
     @endforeach

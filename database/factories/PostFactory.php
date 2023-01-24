@@ -31,7 +31,8 @@ class PostFactory extends Factory
                         ->implode(''),
             'user_id' => mt_rand(1,3),
             'category_id' => mt_rand(1,3),
-            'created_at' => $this->faker->dateTimeThisMonth()
+            'created_at' => $this->faker->dateTimeThisMonth(),
+            'visited' => mt_rand(1,100)
         ];
     }
 }
