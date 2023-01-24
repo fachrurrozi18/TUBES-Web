@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="/css/dashboard.css">
 
 @section('container')
-<!-- <h1>Selamat datang {{ auth()->user()->name }}</h1> -->
+<h1 style="padding-left: 30px;">Selamat datang {{ auth()->user()->name }}</h1>
 <div class="layout-admin">
     <div class="sidebars">
         <ul>
