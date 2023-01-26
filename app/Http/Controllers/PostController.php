@@ -39,4 +39,15 @@ class PostController extends Controller
             "post" => $post
         ]);
     }
+    public function next(Post $judul)
+    {
+        // return view('dashboard.index');
+        $title = '';
+        return view('proker', [
+            "title" => $judul,
+            "active" => 'posts',
+            "post" => $judul
+        ]);
+        
+    }
 }

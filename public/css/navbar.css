@@ -51,3 +51,16 @@ nav{
         color: blue !important;
     }
     
+.buttonlogout {
+  padding: 10px 15px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #004189;
+  border-radius: 10px;
+  border: none;  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}

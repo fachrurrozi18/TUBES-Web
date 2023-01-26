@@ -9,11 +9,12 @@
 }
 
 .kotak{
-  width: 100%;
+  width: 80%;
   display: flex;
   flex-wrap: wrap;
   flex: 1;
   justify-content: space-evenly;
+  margin: auto auto;
 }
 
 .ribbon {

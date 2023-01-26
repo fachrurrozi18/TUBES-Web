@@ -17,6 +17,7 @@
     <!-- Footer CSS -->
     <link rel="stylesheet" href="/css/footer.css">
     <!-- Slider Css -->
+    <link rel="stylesheet" href="https://kit.fontawesome.com/b86a79ac18.css" crossorigin="anonymous">
     <!-- <link rel="stylesheet" href="/css/slider.css"> -->
 
     <title>HMIK | {{ $title }}</title>

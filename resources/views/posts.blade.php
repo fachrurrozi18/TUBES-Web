@@ -4,8 +4,10 @@
 @if(isset($_GET["category"]))
 @if($_GET['category'] === "competition")
 <link rel="stylesheet" href="/css/competition_card.css">
+<link rel="stylesheet" href="/css/slider.css">
 @else
 <link rel="stylesheet" href="/css/seminar-acara_card.css">
+<link rel="stylesheet" href="/css/slider.css">
 @endif
 @endif
 <!-- Navbar CSS -->
@@ -20,6 +22,8 @@
 {{-- @include('partials.event_slider') --}}
 
 <!-- Put The Slider Here -->
+
+@include('slider')
 
 
 <!-- Use the code below to create a loop to every posts  -->
@@ -42,7 +46,7 @@
             <i class="fa fa-map-marker" style="font-size: 20px">
                 <p> Universitas Pertamina </p>
             </i>
-            <br /><br />
+            <br/><br/>
             <div>
                     <a href="/posts/{{ $post->slug }}" class="button">Read more</a>
             </div>

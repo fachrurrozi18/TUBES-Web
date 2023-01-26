@@ -1,20 +1,20 @@
-    <div class="container">
+    <div class="containers">
         <div class="content-slide">
             <div class="imgslide fade">
                 <div class="numberslide"></div>
-                <a href="slider_event.html"><img class="image" src="/img/cu4.jpg" alt=""></a>
+                <a href="/"><img class="images" src="/img/cu4.jpg" alt=""></a>
                 <div class="text"></div>
             </div>
 
             <div class="imgslide fade">
                 <div class="numberslide"></div>
-                <a href="slider_event.html"><img class="image" src="/img/valo.jpg" alt=""></a>
+                <a href="/"><img class="images" src="/img/valo.jpg" alt=""></a>
                 <div class="text"></div>
             </div>
 
             <div class="imgslide fade">
                 <div class="numberslide"></div>
-                <a href="slider_event.html"><img class="image" src="/img/aot.jpg" alt=""></a>
+                <a href="/"><img class="images" src="/img/aot.jpg" alt=""></a>
                 <div class="text"></div>
             </div>
 

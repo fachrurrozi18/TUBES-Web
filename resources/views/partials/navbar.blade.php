@@ -37,26 +37,17 @@
             </li>
             <li>
                 @auth
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-                    aria-expanded="false">
-                    Welcome back, {{ auth()->user()->name }}
-                </a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="nav-link {{ ($active === "dashboard") ? 'active' : '' }}" href="/dashboard"><i
-                                class="bi bi-layout-text-sidebar-reverse"></i> My Dashboard</a></li>
-                    <li>
-                        <hr class="dropdown-divider">
-                    </li>
-                    <li>
-                        <form action="/logout" method="post">
-                            @csrf
-                            <button type="submit" class="dropdown-item"><i class="bi bi-box-arrow-right"></i>
-                                Logout</button>
-                        </form>
-                    </li>
-                </ul>
-            </li>
+            <li><a class="nav-link {{ ($active === "dashboard") ? 'active' : '' }}" href="/dashboard"><i
+                            class="bi bi-layout-text-sidebar-reverse"></i> My Dashboard</a></li>
+                <li>
+                    <hr class="dropdown-divider">
+                </li>
+                <li>
+                    <form action="/logout" method="post">
+                        @csrf
+                        <button type="submit" class="buttonlogout">Logout<i class="fa-regular fa-arrow-right-from-bracket"></i></button>
+                    </form>
+                </li>
             @else
             <li class="nav-item">
                 <a href="/login" class="nav-link {{ ($active === "login") ? 'active' : '' }}"><i
@@ -67,6 +58,5 @@
             </li>
         </ul>
     </div>
-
 
 </nav>

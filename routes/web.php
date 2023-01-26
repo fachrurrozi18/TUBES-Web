@@ -31,19 +31,11 @@ Route::get('/', function () {
         "active" => 'home'
     ]);
 });
+Route::get('/home/{post:slug}',[PostController::class, 'next']);
 
-Route::get('/about', function () {
-    return view('about', [
-        'title' => 'About',
-        'active' => 'about',
-        'name' => 'Sandhika Galih',
-        'email' => 'sandhikagalih@gmail.com',
-        'image' => 'sandhika.jpg'
-    ]);
-});
 
 Route::get('/posts', [PostController::class, 'index']);
-Route::get('/posts/{post:slug}', [PostController::class, 'show']);
+Route::get('/posts/{post:slug}', [PostController::class, 'index']);
 
 Route::get('/categories', function() {
     return view('categories', [
