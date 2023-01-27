@@ -1,14 +1,17 @@
 @extends('layouts.main')
 
 @section('style')
+<link rel="stylesheet" href="/css/proker.css">
 <link rel="stylesheet" href="/css/landing.css">
 
 @section('container')
 <!-- Code -->
-<h1 class="judulproker"> Curhat Santuy </h1>
-
-
+<div class="judul">
+    <h1 class="judulproker"> Curhat Santuy </h1>
     <h2 class="option"> latar Belakang </h2>
+</div>
+
+
 
     <p class="penjelasan">Pada kabinet HMIK Harmoni Aksikami berpikir jika mahasiswa Ilmu Komputer
         Universitas Pertamina memiliki permasalahan / keluh kesah dan tidak mengetahui pada
@@ -25,7 +28,8 @@
         mengenal himpunan dan perkuliahan yang di hadapi.
     </p>
     <h2 class="option"> Dokumentasi </h2>
-
-    <img src="/img/dokumentasi.jpg" alt="Dokumentasi Proker Cursan">
+    <div class="dokumentasi">
+        <img src="/img/dokumentasi.jpg" alt="Dokumentasi Proker Cursan">
+    </div>
 
 @endsection

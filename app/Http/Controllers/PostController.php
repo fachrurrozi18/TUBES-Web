@@ -44,7 +44,7 @@ class PostController extends Controller
         // return view('dashboard.index');
         $title = '';
         return view('proker', [
-            "title" => $judul,
+            "title" => "Proker",
             "active" => 'posts',
             "post" => $judul
         ]);
