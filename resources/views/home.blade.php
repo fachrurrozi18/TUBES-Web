@@ -198,19 +198,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja1</a>
+                        <a href="/home/proker">ProgramKerja1</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja2</a>
+                        <a href="/home/proker">ProgramKerja2</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja3</a>
+                        <a href="/home/proker">ProgramKerja3</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja4</a>
+                        <a href="/home/proker">ProgramKerja4</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -220,19 +220,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja5</a>
+                        <a href="/home/proker">ProgramKerja5</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja6</a>
+                        <a href="/home/proker">ProgramKerja6</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja7</a>
+                        <a href="/home/proker">ProgramKerja7</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja8</a>
+                        <a href="/home/proker">ProgramKerja8</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -242,19 +242,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja9</a>
+                        <a href="/home/proker">ProgramKerja9</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja10</a>
+                        <a href="/home/proker">ProgramKerja10</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja11</a>
+                        <a href="/home/proker">ProgramKerja11</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja12</a>
+                        <a href="/home/proker">ProgramKerja12</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -345,19 +345,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja13</a>
+                        <a href="/home/proker">ProgramKerja13</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja14</a>
+                        <a href="/home/proker">ProgramKerja14</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja15</a>
+                        <a href="/home/proker">ProgramKerja15</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja16</a>
+                        <a href="/home/proker">ProgramKerja16</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -367,19 +367,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja17</a>
+                        <a href="/home/proker">ProgramKerja17</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja18</a>
+                        <a href="/home/proker">ProgramKerja18</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja19</a>
+                        <a href="/home/proker">ProgramKerja19</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja20</a>
+                        <a href="/home/proker">ProgramKerja20</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -389,19 +389,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja21</a>
+                        <a href="/home/proker">ProgramKerja21</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja22</a>
+                        <a href="/home/proker">ProgramKerja22</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja23</a>
+                        <a href="/home/proker">ProgramKerja23</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja24</a>
+                        <a href="/home/proker">ProgramKerja24</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -493,19 +493,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja25</a>
+                        <a href="/home/proker">ProgramKerja25</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja26</a>
+                        <a href="/home/proker">ProgramKerja26</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja27</a>
+                        <a href="/home/proker">ProgramKerja27</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja28</a>
+                        <a href="/home/proker">ProgramKerja28</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -515,19 +515,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja29</a>
+                        <a href="/home/proker">ProgramKerja29</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja30</a>
+                        <a href="/home/proker">ProgramKerja30</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja31</a>
+                        <a href="/home/proker">ProgramKerja31</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja32</a>
+                        <a href="/home/proker">ProgramKerja32</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -537,19 +537,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja33</a>
+                        <a href="/home/proker">ProgramKerja33</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja34</a>
+                        <a href="/home/proker">ProgramKerja34</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja35</a>
+                        <a href="/home/proker">ProgramKerja35</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja36</a>
+                        <a href="/home/proker">ProgramKerja36</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -641,19 +641,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja37</a>
+                        <a href="/home/proker">ProgramKerja37</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja38</a>
+                        <a href="/home/proker">ProgramKerja38</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja39</a>
+                        <a href="/home/proker">ProgramKerja39</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja40</a>
+                        <a href="/home/proker">ProgramKerja40</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -663,19 +663,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja41</a>
+                        <a href="/home/proker">ProgramKerja41</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja42</a>
+                        <a href="/home/proker">ProgramKerja42</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja43</a>
+                        <a href="/home/proker">ProgramKerja43</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja44</a>
+                        <a href="/home/proker">ProgramKerja44</a>
                    </div>
                 </div>
                 <div class="text"></div>
@@ -685,19 +685,19 @@
                 <div class="numberslide"></div>
                 <div class="box-container">
                     <div class="box">
-                        <a href="">ProgramKerja45</a>
+                        <a href="/home/proker">ProgramKerja45</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja46</a>
+                        <a href="/home/proker">ProgramKerja46</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja47</a>
+                        <a href="/home/proker">ProgramKerja47</a>
                    </div>
             
                    <div class="box">
-                        <a href="">ProgramKerja48</a>
+                        <a href="/home/proker">ProgramKerja48</a>
                    </div>
                 </div>
                 <div class="text"></div>
